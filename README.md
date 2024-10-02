@@ -8,7 +8,7 @@
 - **Responsive Design**: Works seamlessly across different devices.
 
 ## Screenshot
-![Sharmin's App Screenshot]([./path-to-image/Screenshot-2024-10-02-180512.png](https://github.com/sharmin194/Assignment_Regex_Login/blob/main/Screenshot%202024-10-02%20180512.png))
+![Sharmin's App Screenshot](https://github.com/sharmin194/Assignment_Regex_Login/blob/431d168fb3ad9472277dbe57d8eb4d79534112f3/Screenshot%202024-10-02%20180512.png)
 
 ## How to Use
 1. Open the app and fill out the sign-up form with your information.
